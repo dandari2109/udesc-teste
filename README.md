@@ -1,6 +1,9 @@
 # Projeto de Tesde da Udesc
 ## Introdução
 Primeiro projeto no **Github** da [Udesc].(https://udesc.br)
+
+Dica do dia
+> "É fazendo muita merda que se aduba a vida"
 ## Instalação
 Para instalar o *sofware*, faça o *dowload* do projeto e siga os passos abaixo:
 1. Entre no diretório do projeto
